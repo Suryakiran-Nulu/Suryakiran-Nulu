@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science in raghu institute of technology
 - 📫 How to reach me ...
 - kiran70635@gmail.com
-- i am good in programming languages like python and c and front end languages like html
+- i am good in programming languages like python and c and front end languages like html,css
 - also has a good knowledge about database that is oracle sql
 
 <!---
